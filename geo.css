@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+body{
+
+width: 1530px;
+height: 1000px;
+
+}
+
+
+header{
+
+width: 100%;
+height: 4%;
+background-image: url(img/s5.jpg) ;
+background-position: center;
+
+
+
+}
+
+
+header marquee {
+
+margin: -50px;
+
+}
+
+
+#im1 {
+
+
+    width: 130px;
+    height: 130px;
+    
+    }
